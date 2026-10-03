@@ -21,7 +21,7 @@ Description: All capital letters for the font and large text size for the title 
 ## wps screenshots
 <img width="320" height="240" alt="wps" src="screenshots/allcaps_wps1.png" />
 
-<img width="320" height="240" alt="wps" src="screenshots/allcaps_wp2.png" />
+<img width="320" height="240" alt="wps" src="screenshots/allcaps_wps2.png" />
 
 <img width="320" height="240" alt="wps" src="screenshots/allcaps_wps3.png" />
 
